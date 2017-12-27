@@ -2,5 +2,7 @@
   "name" : "my-project",
   "description": "oficial vue",
   "repository" : "https://github.com/ocularDwarf/vit.org.ua",
-  "logo" : ""
+  "logo" : "https://vit-org-ua.herokuapp.com/logo.svg",
+  "keywords": ["node", "express", "static"],
+  "image" : "heroku/nodejs"
 }
