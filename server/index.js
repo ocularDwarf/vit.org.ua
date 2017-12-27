@@ -56,4 +56,4 @@ app.use(function (err, req, res, next) {
 
 app.listen(port, () => debug('Server listen on port =', port, 'ENV =', process.env.NODE_ENV))
 
-// export default app // для тестирования
+export default app // для тестирования
