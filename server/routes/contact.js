@@ -10,18 +10,18 @@ contact.post('/', (req, res) => {
   const {name, email, message} = req.body
 
   let transporter = nodemailer.createTransport({
-    host: 'smtp.gmail.com',
+    host: 'smtpz.ukr.net',
     port: 465,
     secure: true,
     auth: {
-      user: 'elesar1488@gmail.com',
-      pass: 'Ed0961067029'
+      user: 'vit.org.ua@ukr.net',
+      pass: 'aUkres392&292(1'
     }
   });
   let mailOptions = {
-    from: 'elesar1488@gmail.com',
+    from: 'vit.org.ua@ukr.net',
     //req.body.name + ' &lt;' + req.body.email + '&gt;',
-  to: 'elesar1488@gmail.com',
+  to: 'vit.org.ua@ukr.net',
   subject: 'Повідомлення з контактної форми',
   text: 'Вам повідомлення з форми контактів з наступним змістом: Імя ' + req.body.name + 'Email:  ' + req.body.email + 'Повідомлення:  ' + req.body.message,
   html: '<p>Вам повідомлення з форми контактів з наступним змістом: Імя</p><ul><li>ІМЯ:  '+req.body.name+'</li><li>EMAIL:  '+req.body.email+'</li><li>Повідомлення:  '+req.body.message+'</li></ul>'
