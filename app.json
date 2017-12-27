@@ -1,5 +1,6 @@
 {
   "name" : "my-project",
   "description": "oficial vue",
-  "repository" : "https://github.com/ocularDwarf/vit.org.ua"
+  "repository" : "https://github.com/ocularDwarf/vit.org.ua",
+  "logo" : ""
 }
