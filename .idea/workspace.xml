@@ -56,13 +56,14 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1722">
+            <state relative-caret-position="1701">
               <caret line="82" column="18" lean-forward="false" selection-start-line="82" selection-start-column="18" selection-end-line="82" selection-end-column="18" />
               <folding>
-                <marker date="1514409062858" expanded="true" signature="0:2589" ph="{&quot;name&quot;: &quot;my-project&quot;...}" />
-                <marker date="1514409062858" expanded="true" signature="1380:2449" ph="{&quot;autoprefixer&quot;: &quot;^7.1.2&quot;...}" />
-                <marker date="1514409062858" expanded="true" signature="2464:2509" ph="{&quot;node&quot;: &quot;8.9.1&quot;...}" />
-                <marker date="1514409062858" expanded="true" signature="2529:2587" ph="[...]" />
+                <marker date="1514409542365" expanded="true" signature="0:2593" ph="{&quot;name&quot;: &quot;my-project&quot;...}" />
+                <marker date="1514409542365" expanded="true" signature="352:1333" ph="{&quot;animate.css&quot;: &quot;^3.5.2&quot;...}" />
+                <marker date="1514409542365" expanded="true" signature="1356:2453" ph="{&quot;autoprefixer&quot;: &quot;^7.1.2&quot;...}" />
+                <marker date="1514409542365" expanded="true" signature="2468:2513" ph="{&quot;node&quot;: &quot;8.9.1&quot;...}" />
+                <marker date="1514409542365" expanded="true" signature="2533:2591" ph="[...]" />
               </folding>
             </state>
           </provider>
@@ -350,12 +351,12 @@
       <workItem from="1514327502574" duration="3753000" />
       <workItem from="1514337847719" duration="2315000" />
       <workItem from="1514370287190" duration="703000" />
-      <workItem from="1514371925307" duration="17244000" />
+      <workItem from="1514371925307" duration="17760000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="645649000" />
+    <option name="totallyTimeSpent" value="646165000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -750,13 +751,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1722">
+        <state relative-caret-position="1701">
           <caret line="82" column="18" lean-forward="false" selection-start-line="82" selection-start-column="18" selection-end-line="82" selection-end-column="18" />
           <folding>
-            <marker date="1514409062858" expanded="true" signature="0:2589" ph="{&quot;name&quot;: &quot;my-project&quot;...}" />
-            <marker date="1514409062858" expanded="true" signature="1380:2449" ph="{&quot;autoprefixer&quot;: &quot;^7.1.2&quot;...}" />
-            <marker date="1514409062858" expanded="true" signature="2464:2509" ph="{&quot;node&quot;: &quot;8.9.1&quot;...}" />
-            <marker date="1514409062858" expanded="true" signature="2529:2587" ph="[...]" />
+            <marker date="1514409542365" expanded="true" signature="0:2593" ph="{&quot;name&quot;: &quot;my-project&quot;...}" />
+            <marker date="1514409542365" expanded="true" signature="352:1333" ph="{&quot;animate.css&quot;: &quot;^3.5.2&quot;...}" />
+            <marker date="1514409542365" expanded="true" signature="1356:2453" ph="{&quot;autoprefixer&quot;: &quot;^7.1.2&quot;...}" />
+            <marker date="1514409542365" expanded="true" signature="2468:2513" ph="{&quot;node&quot;: &quot;8.9.1&quot;...}" />
+            <marker date="1514409542365" expanded="true" signature="2533:2591" ph="[...]" />
           </folding>
         </state>
       </provider>
