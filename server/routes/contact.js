@@ -10,7 +10,7 @@ contact.post('/', (req, res) => {
   const {name, email, message} = req.body
 
   let transporter = nodemailer.createTransport({
-    host: 'smtpz.ukr.net',
+    host: 'smtp.ukr.net',
     port: 465,
     secure: true,
     auth: {
