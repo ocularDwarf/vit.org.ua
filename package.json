@@ -6,9 +6,9 @@
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
-    "start": "npm run dev",
+    "devs": "npm run dev",
     "build": "node build/build.js",
-    "serv": "babel-node server/index.js"
+    "start": "babel-node server/index.js"
   },
   "dependencies": {
     "animate.css": "^3.5.2",
